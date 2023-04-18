@@ -1,7 +1,8 @@
 # tic-tac-toe-game
 <h3>Making game application<h3>
-Simple tic-tac-toe game built using HTML, CSS, and JavaScript. For more information about the game, click [here](https://en.wikipedia.org/wiki/Tic-tac-toe).
-
+Simple tic-tac-toe game built using HTML, CSS, and JavaScript. 
+  
+<a href="https://glittery-maamoul-98a1ae.netlify.app">https://glittery-maamoul-98a1ae.netlify.app<a/>
 
 ## Run on Terminal
 
@@ -16,5 +17,5 @@ google-chrome index.html
 - Player with the 'X' mark starts first. The first player to place 3 marks in a vertical, horizontal, or diagonal row wins the game.
 - If all spaces are filled, the game ends in a draw.
 
-<a href="https://glittery-maamoul-98a1ae.netlify.app">https://glittery-maamoul-98a1ae.netlify.app<a/>
 
+For more information about the game, click [here](https://en.wikipedia.org/wiki/Tic-tac-toe).
